@@ -1,5 +1,6 @@
 # iotgateway
 
+<<<<<<< HEAD
 Holle GitHub !!!
 
 uuuuuuuuuuuuuu
@@ -15,3 +16,6 @@ pppppppppppppp
 sorry
 
 i am dev content
+=======
+null
+>>>>>>> master
