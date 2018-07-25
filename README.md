@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 Holle GitHub !!!
 
+<<<<<<< HEAD
 uuuuuuuuuuuuuu
 kkkkkkkkkkkkkk
 llllllllllllll
@@ -19,3 +20,6 @@ i am dev content
 =======
 null
 >>>>>>> master
+=======
+i am newwwwwwwwwww
+>>>>>>> new
